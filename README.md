@@ -99,18 +99,28 @@ These findings describe the dataset analyzed in this project and should not be i
 ## Repository Structure
 
 ```text
-Netflix-Data-Analysis/
+Netflix_Data_Analysis/
 ├── README.md
 ├── data/
 │   └── Cleaned_Dataset.csv
 ├── notebooks/
-│   └── netflix_analysis.ipynb
+│   └── data_cleaning.ipynb
+│   └── content_type_analysis.ipynb
+│   └── country-wise_content_analysis
+│   └── netflix_business_insights_report.ipynb
 ├── dashboard/
-│   └── Netflix_Business_Insights.pbix
+│   └── Netflix_Dashboard.pbix
 ├── images/
-│   └── netflix-dashboard.png
+│   └── Netflix-Dashboard.png
+│   └── movie_durations_visual.png
+│   └── rating_visual.png
+│   └── genres_visual.png
+│   └── countries_content_visual.png
+│   └── release_year_visual.png
+│   └── movies_vs_tv_shows.png
 ├── requirements.txt
 └── .gitignore
+└── LICENSE
 ```
 
 ## How to Use This Project
@@ -140,7 +150,7 @@ Netflix-Data-Analysis/
 
 **Bushra Batool**
 
-Software Engineering Graduate | Aspiring Data Analyst
+Software Engineering Graduate | Aspiring Data Analyst | AI/ML Engineer 
 
 GitHub: https://github.com/bushraabbas2085
 
