@@ -42,8 +42,6 @@ The dataset contains information about Netflix titles, including movies and TV s
 | `duration` | Movie runtime or number of seasons |
 | `listed_in` | Genre or category information |
 
-**Dataset source:** Add the original dataset URL and attribution here.
-
 ## Tools and Technologies
 
 - **Python:** Data inspection and preparation, where applicable
@@ -96,6 +94,12 @@ These findings describe the dataset analyzed in this project and should not be i
 ![Netflix Business Insights Dashboard](images/Netflix_Dashboard.png)
 
 
+## Project Documentation
+
+- [Read the Final Project Report (PDF)](documentation/Netflix_Business_Insights_Report.pdf)
+- [View the Power BI Dashboard](dashboard/Netflix_Dashboard.pbix)
+
+
 ## Repository Structure
 
 ```text
@@ -118,6 +122,8 @@ Netflix_Data_Analysis/
 │   └── countries_content_visual.png
 │   └── release_year_visual.png
 │   └── movies_vs_tv_shows.png
+├── documentation/
+│   └── Netflix_Business_Insights_Report.pdf
 ├── requirements.txt
 └── .gitignore
 └── LICENSE
@@ -158,4 +164,4 @@ LinkedIn: https://www.linkedin.com/in/bushra-batool-1016ba367/
 
 ## Acknowledgements
 
-Thanks to the original dataset creator and data provider. Please refer to the original dataset page for its license, attribution requirements, and usage conditions.
+Thanks to the original dataset creator and data provider. Please refer to the original dataset for its license, attribution requirements, and usage conditions.
